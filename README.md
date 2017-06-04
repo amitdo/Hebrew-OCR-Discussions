@@ -1,1 +1,1 @@
-# Hebrew-OCR-Discussions
+# Hebrew OCR Discussions
